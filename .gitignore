@@ -15,4 +15,7 @@ wp-content/plugins/hello.php
 
 /readme.html
 /license.txt
-
+logs/*
+.idea
+.ID_*
+.DS_*
